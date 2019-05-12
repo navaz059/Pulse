@@ -1,0 +1,506 @@
+[
+    {
+        "checkInCounts": 178,
+        "country": "GERMANY",
+        "companyName": "Apcoa Germany",
+        "parkingName": "Berlin, Prager Passage",
+        "coordinates": [13.33226,2.493185],
+        "amount": 1.76
+    },
+    {
+        "checkInCounts": 1577,
+        "country": "GERMANY",
+        "companyName": "Apcoa Germany",
+        "parkingName": "Berlin, Alexa",
+        "coordinates": [13.41664,2.519366],
+        "amount": 15.59
+    },
+    {
+        "checkInCounts": 24,
+        "country": "GERMANY",
+        "companyName": "Apcoa Germany",
+        "parkingName": "Berlin, Forum Landsberger Allee",
+        "coordinates": [13.45515,2.530442],
+        "amount": 0.24
+    },
+    {
+        "checkInCounts": 1713,
+        "country": "GERMANY",
+        "companyName": "Apcoa Germany",
+        "parkingName": "Berlin, Schönhauser Allee Arcaden",
+        "coordinates": [13.41689,2.549486],
+        "amount": 17.04
+    },
+    {
+        "checkInCounts": 674,
+        "country": "GERMANY",
+        "companyName": "Apcoa Germany",
+        "parkingName": "Berlin, Sony Center",
+        "coordinates": [13.37421,2.510395],
+        "amount": 6.71
+    },
+    {
+        "checkInCounts": 419,
+        "country": "GERMANY",
+        "companyName": "Apcoa Germany",
+        "parkingName": "Potsdam, Bahnhofspassagen PH 1",
+        "coordinates": [13.06482,2.392746],
+        "amount": 4.12
+    },
+    {
+        "checkInCounts": 137,
+        "country": "GERMANY",
+        "companyName": "Apcoa Germany",
+        "parkingName": "Berlin, Philharmonie",
+        "coordinates": [13.36919,2.50891],
+        "amount": 1.35
+    },
+    {
+        "checkInCounts": 463,
+        "country": "GERMANY",
+        "companyName": "Apcoa Germany",
+        "parkingName": "Berlin, Kant-Center",
+        "coordinates": [13.30875,2.506046],
+        "amount": 4.57
+    },
+    {
+        "checkInCounts": 622,
+        "country": "GERMANY",
+        "companyName": "Apcoa Germany",
+        "parkingName": "Berlin, Das Schloss Ebene A",
+        "coordinates": [13.32016,2.457216],
+        "amount": 6.16
+    },
+    {
+        "checkInCounts": 153,
+        "country": "GERMANY",
+        "companyName": "Apcoa Germany",
+        "parkingName": "Berlin, Adlon",
+        "coordinates": [13.38019,2.51494],
+        "amount": 1.52
+    },
+    {
+        "checkInCounts": 684,
+        "country": "GERMANY",
+        "companyName": "Apcoa Germany",
+        "parkingName": "Berlin, Elcknerplatz am Bahnhof Köpenick",
+        "coordinates": [13.58010,2.458159],
+        "amount": 6.8
+    },
+    {
+        "checkInCounts": 135,
+        "country": "GERMANY",
+        "companyName": "Apcoa Germany",
+        "parkingName": "Berlin, Luisenstraße",
+        "coordinates": [13.37947,2.524169],
+        "amount": 1.33
+    },
+    {
+        "checkInCounts": 283,
+        "country": "GERMANY",
+        "companyName": "Apcoa Germany",
+        "parkingName": "Berlin, Augsburger Straße",
+        "coordinates": [13.33934,2.500518],
+        "amount": 2.81
+    },
+    {
+        "checkInCounts": 164,
+        "country": "GERMANY",
+        "companyName": "Apcoa Germany",
+        "parkingName": "Berlin, Leipziger Platz 12 Ebene 1",
+        "coordinates": [13.38015,2.511099],
+        "amount": 1.58
+    },
+    {
+        "checkInCounts": 109,
+        "country": "GERMANY",
+        "companyName": "Apcoa Germany",
+        "parkingName": "Potsdam, Sportpark Luftschiffhafen",
+        "coordinates": [13.01751,2.378362],
+        "amount": 1.09
+    },
+    {
+        "checkInCounts": 1989,
+        "country": "GERMANY",
+        "companyName": "Apcoa Germany",
+        "parkingName": "Hamburg, Hanseviertel",
+        "coordinates": [9.98748,3.55362],
+        "amount": 19.78
+    },
+    {
+        "checkInCounts": 343,
+        "country": "GERMANY",
+        "companyName": "Apcoa Germany",
+        "parkingName": "Hamburg, Hotel Marriott",
+        "coordinates": [9.98662599999999,3.554877],
+        "amount": 3.41
+    },
+    {
+        "checkInCounts": 111,
+        "country": "GERMANY",
+        "companyName": "Apcoa Germany",
+        "parkingName": "Hamburg, Neue Flora",
+        "coordinates": [9.94944,3.563008],
+        "amount": 1.07
+    },
+    {
+        "checkInCounts": 4504,
+        "country": "GERMANY",
+        "companyName": "Apcoa Germany",
+        "parkingName": "Hamburg, Tibarg Center",
+        "coordinates": [9.95176,3.623177],
+        "amount": 44.46
+    },
+    {
+        "checkInCounts": 75,
+        "country": "GERMANY",
+        "companyName": "Apcoa Germany",
+        "parkingName": "Hamburg, Nomis Quartier",
+        "coordinates": [9.9662,3.55101],
+        "amount": 0.75
+    },
+    {
+        "checkInCounts": 342,
+        "country": "GERMANY",
+        "companyName": "Apcoa Germany",
+        "parkingName": "Hamburg, Heegbarg",
+        "coordinates": [10.09250,3.653294],
+        "amount": 3.39
+    },
+    {
+        "checkInCounts": 2006,
+        "country": "GERMANY",
+        "companyName": "Apcoa Germany",
+        "parkingName": "Hamburg, Universitätsklinikum Eppendorf",
+        "coordinates": [9.97452,3.589934],
+        "amount": 19.76
+    },
+    {
+        "checkInCounts": 1451,
+        "country": "GERMANY",
+        "companyName": "Apcoa Germany",
+        "parkingName": "Hamburg, Stadthöfe [Bleichenhof]",
+        "coordinates": [9.98665,3.551994],
+        "amount": 14.46
+    },
+    {
+        "checkInCounts": 192,
+        "country": "GERMANY",
+        "companyName": "Apcoa Germany",
+        "parkingName": "Hamburg, Elbphilharmonie",
+        "coordinates": [9.9850,3.541301],
+        "amount": 1.92
+    },
+    {
+        "checkInCounts": 138,
+        "country": "GERMANY",
+        "companyName": "Apcoa Germany",
+        "parkingName": "Hamburg, Falkenried",
+        "coordinates": [9.97144,3.585616],
+        "amount": 1.38
+    },
+    {
+        "checkInCounts": 199,
+        "country": "GERMANY",
+        "companyName": "Apcoa Germany",
+        "parkingName": "Hamburg, Berliner Tor",
+        "coordinates": [10.02148,3.556614],
+        "amount": 1.95
+    },
+    {
+        "checkInCounts": 928,
+        "country": "GERMANY",
+        "companyName": "Apcoa Germany",
+        "parkingName": "Hamburg, Harburg Arcaden",
+        "coordinates": [9.98105,3.460542],
+        "amount": 9.23
+    },
+    {
+        "checkInCounts": 1367,
+        "country": "GERMANY",
+        "companyName": "Apcoa Germany",
+        "parkingName": "Hamburg, Gänsemarkt [Messe - Ost]",
+        "coordinates": [9.98684,3.557578],
+        "amount": 13.61
+    },
+    {
+        "checkInCounts": 2212,
+        "country": "GERMANY",
+        "companyName": "Apcoa Germany",
+        "parkingName": "Hamburg, Altona Bahnhof",
+        "coordinates": [9.93413499999999,3.553267],
+        "amount": 21.99
+    },
+    {
+        "checkInCounts": 324,
+        "country": "GERMANY",
+        "companyName": "Apcoa Germany",
+        "parkingName": "Hamburg, Blankenese P1",
+        "coordinates": [9.81244,3.564122],
+        "amount": 3.22
+    },
+    {
+        "checkInCounts": 489,
+        "country": "GERMANY",
+        "companyName": "Apcoa Germany",
+        "parkingName": "Hamburg, Hahnenkamp [Ottenser Hauptstraße]",
+        "coordinates": [9.93339,3.553249],
+        "amount": 4.88
+    },
+    {
+        "checkInCounts": 528,
+        "country": "GERMANY",
+        "companyName": "Apcoa Germany",
+        "parkingName": "Hamburg, Marie-Jonas-Platz",
+        "coordinates": [9.98514499999999,3.590531],
+        "amount": 5.24
+    },
+    {
+        "checkInCounts": 505,
+        "country": "GERMANY",
+        "companyName": "Apcoa Germany",
+        "parkingName": "Hamburg, Bavaria Office",
+        "coordinates": [9.96668099999999,3.547787],
+        "amount": 5.01
+    },
+    {
+        "checkInCounts": 42,
+        "country": "GERMANY",
+        "companyName": "Apcoa Germany",
+        "parkingName": "Hamburg, Altonaer Kinderklinik",
+        "coordinates": [9.91171,3.551958],
+        "amount": 0.42
+    },
+    {
+        "checkInCounts": 167,
+        "country": "GERMANY",
+        "companyName": "Apcoa Germany",
+        "parkingName": "Hamburg, Facharztklinik",
+        "coordinates": [9.97336499999999,3.590448],
+        "amount": 1.65
+    },
+    {
+        "checkInCounts": 1197,
+        "country": "GERMANY",
+        "companyName": "Apcoa Germany",
+        "parkingName": "Hamburg, Holzhafen",
+        "coordinates": [9.94262,3.544245],
+        "amount": 11.92
+    },
+    {
+        "checkInCounts": 3057,
+        "country": "GERMANY",
+        "companyName": "Apcoa Germany",
+        "parkingName": "Schenefeld, Stadtzentrum Schenefeld Tiefgarage",
+        "coordinates": [9.83626,3.602981],
+        "amount": 28.6
+    },
+    {
+        "checkInCounts": 1343,
+        "country": "GERMANY",
+        "companyName": "Apcoa Germany",
+        "parkingName": "Hamburg, Marktplatz-Galerie Bramfeld",
+        "coordinates": [10.07693,3.611943],
+        "amount": 13.28
+    },
+    {
+        "checkInCounts": 201,
+        "country": "GERMANY",
+        "companyName": "Apcoa Germany",
+        "parkingName": "Lübeck, Linden Arcaden",
+        "coordinates": [10.67319,3.867016],
+        "amount": 1.99
+    },
+    {
+        "checkInCounts": 1551,
+        "country": "GERMANY",
+        "companyName": "Apcoa Germany",
+        "parkingName": "Hamburg, Mercado",
+        "coordinates": [9.93338,3.553238],
+        "amount": 15.46
+    },
+    {
+        "checkInCounts": 1441,
+        "country": "GERMANY",
+        "companyName": "Apcoa Germany",
+        "parkingName": "Norderstedt, De-Gasperi-Passage",
+        "coordinates": [9.98636499999999,3.683151],
+        "amount": 14.32
+    },
+    {
+        "checkInCounts": 970,
+        "country": "GERMANY",
+        "companyName": "Apcoa Germany",
+        "parkingName": "Flensburg, Flensburg-Galerie",
+        "coordinates": [9.43841,4.783868],
+        "amount": 9.64
+    },
+    {
+        "checkInCounts": 239,
+        "country": "GERMANY",
+        "companyName": "Apcoa Germany",
+        "parkingName": "Elmshorn, neuer Markt",
+        "coordinates": [9.65116199999999,3.752274],
+        "amount": 2.37
+    },
+    {
+        "checkInCounts": 279,
+        "country": "GERMANY",
+        "companyName": "Apcoa Germany",
+        "parkingName": "Flensburg, City Süderhofenden",
+        "coordinates": [9.43686,4.786282],
+        "amount": 2.79
+    },
+    {
+        "checkInCounts": 312,
+        "country": "GERMANY",
+        "companyName": "Apcoa Germany",
+        "parkingName": "Oldenburg, Theatergarage",
+        "coordinates": [8.21019,3.139585],
+        "amount": 3.1
+    },
+    {
+        "checkInCounts": 952,
+        "country": "GERMANY",
+        "companyName": "Apcoa Germany",
+        "parkingName": "Bremen, Am Wall",
+        "coordinates": [8.80472,3.081441],
+        "amount": 9.43
+    },
+    {
+        "checkInCounts": 99,
+        "country": "GERMANY",
+        "companyName": "Apcoa Germany",
+        "parkingName": "Hannover, Karolinenstrasse",
+        "coordinates": [9.7338,2.38124],
+        "amount": 0.94
+    },
+    {
+        "checkInCounts": 19,
+        "country": "GERMANY",
+        "companyName": "Apcoa Germany",
+        "parkingName": "Hannover, Henriettenstift II Kortumstrasse",
+        "coordinates": [9.75376299999999,2.368805],
+        "amount": 0.19
+    },
+    {
+        "checkInCounts": 1275,
+        "country": "GERMANY",
+        "companyName": "Apcoa Germany",
+        "parkingName": "Chemnitz, Galerie Roter Turm",
+        "coordinates": [12.91980,0.835343],
+        "amount": 12.7
+    },
+    {
+        "checkInCounts": 291,
+        "country": "GERMANY",
+        "companyName": "Apcoa Germany",
+        "parkingName": "Chemnitz, Rathaus Passagen",
+        "coordinates": [12.92002,0.835055],
+        "amount": 2.91
+    },
+    {
+        "checkInCounts": 163,
+        "country": "GERMANY",
+        "companyName": "Apcoa Germany",
+        "parkingName": "Leipzig, Burgplatz",
+        "coordinates": [12.37217,1.336665],
+        "amount": 1.61
+    },
+    {
+        "checkInCounts": 204,
+        "country": "GERMANY",
+        "companyName": "Apcoa Germany",
+        "parkingName": "Leipzig, Petersbogen",
+        "coordinates": [12.37229,1.336699],
+        "amount": 2.01
+    },
+    {
+        "checkInCounts": 45,
+        "country": "GERMANY",
+        "companyName": "Apcoa Germany",
+        "parkingName": "Dresden, Hotel Taschenbergpalais Kempinski",
+        "coordinates": [13.73525,1.051736],
+        "amount": 0.44
+    },
+    {
+        "checkInCounts": 88,
+        "country": "GERMANY",
+        "companyName": "Apcoa Germany",
+        "parkingName": "Dresden, Haus am Zwinger",
+        "coordinates": [13.73589,1.051493],
+        "amount": 0.88
+    },
+    {
+        "checkInCounts": 115,
+        "country": "GERMANY",
+        "companyName": "Apcoa Germany",
+        "parkingName": "Dresden, Schiller Galerie",
+        "coordinates": [13.80322,1.051835],
+        "amount": 1.15
+    },
+    {
+        "checkInCounts": 328,
+        "country": "GERMANY",
+        "companyName": "Apcoa Germany",
+        "parkingName": "Dresden, Straßburger Platz",
+        "coordinates": [13.75659,1.046908],
+        "amount": 3.23
+    },
+    {
+        "checkInCounts": 1033,
+        "country": "GERMANY",
+        "companyName": "Apcoa Germany",
+        "parkingName": "Jena, Goethe Galerie",
+        "coordinates": [11.58249,0.926726],
+        "amount": 10.26
+    },
+    {
+        "checkInCounts": 320,
+        "country": "GERMANY",
+        "companyName": "Apcoa Germany",
+        "parkingName": "Halle-Saale, Ritterhaus",
+        "coordinates": [11.97402,1.480437],
+        "amount": 3.2
+    },
+    {
+        "checkInCounts": 253,
+        "country": "GERMANY",
+        "companyName": "Apcoa Germany",
+        "parkingName": "Brandenburg a.d. Havel, St. Annen Galerie",
+        "coordinates": [12.56589,2.408122],
+        "amount": 2.51
+    },
+    {
+        "checkInCounts": 32,
+        "country": "GERMANY",
+        "companyName": "Apcoa Germany",
+        "parkingName": "Magdeburg, Marietta Quartier",
+        "coordinates": [11.63798,2.132398],
+        "amount": 0.32
+    },
+    {
+        "checkInCounts": 36,
+        "country": "GERMANY",
+        "companyName": "Apcoa Germany",
+        "parkingName": "Magdeburg, Ulrichshaus",
+        "coordinates": [11.63554,2.13107],
+        "amount": 0.36
+    },
+    {
+        "checkInCounts": 110,
+        "country": "GERMANY",
+        "companyName": "Apcoa Germany",
+        "parkingName": "Düsseldorf, Dieterich-Karree",
+        "coordinates": [6.78335,1.236436],
+        "amount": 1.09
+    },
+    {
+        "checkInCounts": 903,
+        "country": "GERMANY",
+        "companyName": "Apcoa Germany",
+        "parkingName": "Düsseldorf, KÖ-Galerie",
+        "coordinates": [6.7805,1.221557],
+        "amount": 9
+    }
+]
